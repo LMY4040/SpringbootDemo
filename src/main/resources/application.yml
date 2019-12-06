@@ -1,0 +1,13 @@
+#开发环境配置
+server:
+  #端口
+  port: 1001
+
+
+person:
+  name: Lmy
+  age: 28
+  Boss: true
+  maps: {k1: haha,k2: aaa}
+  dog:
+    name: boll
